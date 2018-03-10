@@ -1,3 +1,3 @@
 [Research] Program to control a device without a connection.
 
-Commands in the Air o COMAIR, es el nombre que recibe esta investigación, la cual pretende demostrar e identificar técnicas de ataques a sistemas Air Gapping, con el objetivo de protegerlos contra posibles intrusiones de este tipo en el futuro.
+Commands in the Air or COMAIR, is the name that receives this research which aims to demonstrate and identify techniques for attacks on Air Gapping systems, with the aim of protecting them against possible intrusions of this type in the future.
